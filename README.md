@@ -47,8 +47,8 @@ const MauroSandroni = {
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 🔗 &nbsp;**Connect with me** <br> </br>
-  <a href="https://instagram.com/mausandroni" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mausandroni" width="22" /></a> 
-<a href="https://www.linkedin.com/in/msandroni/"><img alt="msandroni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <a href="https://instagram.com/mausandroni" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mausandroni" width="35" /></a> 
+<a href="https://www.linkedin.com/in/msandroni/"><img alt="msandroni's LinkedIN" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 
 📈 my github stats
 
