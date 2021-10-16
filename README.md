@@ -5,10 +5,10 @@
   
 <br />
 
-Hi, I'm [Mauro Ariel Sandroni](https://abhishknads.me/), a passionate full stack web developer and a Lawyer from Argentina.  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="260" height="230" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="260" height="230" />Hi, I'm [Mauro Ariel Sandroni](https://abhishknads.me/), a passionate full stack web developer and a Lawyer from Argentina. 
 
 I started to learn coding when I realice that you can help and change somebody´s life only with your brain and a computer.
-  
+   
 I am always learning, is one of the best thing of me, and the coding community is one of the kinder and more helper that I have ever seen. 
 Now I am looking for a mentor or guide who wants to teach me more and transit this great journey with me.
 
