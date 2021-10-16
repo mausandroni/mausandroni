@@ -1,9 +1,12 @@
 ### Hey! Nice to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://instagram.com/mausandroni" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mausandroni" width="22" /></a> 
-<a href="https://www.linkedin.com/in/msandroni/"><img alt="msandroni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/> <a href=" https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmausandroni"><img alt="msandroni's Github" width="90px" src="https://img.shields.io/github/followers/msandroni?label=Follow&style=social"/> 
+<a href="https://www.linkedin.com/in/msandroni/"><img alt="msandroni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/> <a href="https://github.com/msandroni"><img alt="msandroni's Github" width="90px" src="https://img.shields.io/github/followers/msandroni?label=Follow&style=social"/> 
   
 <br />
+  
+  https://github.com/msandroni
+  
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="260" height="230" />Hi, I'm [Mauro Ariel Sandroni](https://abhishknads.me/), a passionate full stack web developer and a Lawyer from Argentina. 
 
