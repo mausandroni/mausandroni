@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/msandroni/"><img alt="msandroni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/> <a href="https://github.com/mausandroni"><img alt="msandroni's Github" width="90px" src="https://img.shields.io/github/followers/msandroni?label=Follow&style=social"/> 
   
 <br />
-  
-  https://github.com/msandroni
-  
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="260" height="230" />Hi, I'm [Mauro Ariel Sandroni](https://abhishknads.me/), a passionate full stack web developer and a Lawyer from Argentina. 
 
