@@ -7,7 +7,7 @@
 
 I started to learn coding when I realice that you can help and change somebody´s life only with your brain and a computer.
    
-I am always learning, is one of the best thing of me, and the coding community is one of the kinder and more helper that I have ever seen. 
+I am always learning, is one of the best thing of me, and the coding community is one of the kindest and more helpful that I have ever seen. 
 Now I am looking for a mentor or guide who wants to teach me more and transit this great journey with me.
 
 But I am not only a developer, or a simple lawyer, I am much more than that, so I invite you to read some things about me so that you can imagine what kind of person I am:
